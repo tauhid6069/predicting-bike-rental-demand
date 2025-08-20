@@ -50,8 +50,8 @@ The notebook demonstrates end-to-end data analysis, feature engineering, visuali
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/tauhid6069/predicting-bike-rental-demand.git
+   cd predicting-bike-rental-demand
 
 2. Install the dependencies:
 ```bash
