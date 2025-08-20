@@ -56,10 +56,10 @@ The notebook demonstrates end-to-end data analysis, feature engineering, visuali
 2. Install the dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 3. Open the notebook:
 
-jupyter notebook predicting-bike-rental-demand.ipynb
-
+**predicting-bike-rental-demand.ipynb**
 
 4. Run all cells to reproduce the workflow.
