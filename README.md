@@ -52,3 +52,14 @@ The notebook demonstrates end-to-end data analysis, feature engineering, visuali
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
+
+2. Install the dependencies:
+```bash
+pip install -r requirements.txt
+
+3. Open the notebook:
+
+jupyter notebook predicting-bike-rental-demand.ipynb
+
+
+4. Run all cells to reproduce the workflow.
